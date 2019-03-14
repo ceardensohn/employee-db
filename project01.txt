@@ -1,0 +1,11 @@
+COMP 280 - Project 01 (Employee DB)
+
+1. Author(s): Chris Eardensohn
+
+2. Total Hours Spent on Project: 15
+
+3. Project Bucks Used: 0
+
+4. (Optional) Additional Comments: Good re-entry into programming, tough but
+made me revist most of what was learned in previous programming courses to
+refresh.
